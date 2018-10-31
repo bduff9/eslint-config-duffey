@@ -1,0 +1,12 @@
+{
+  "name": "eslint-config-duffey",
+  "version": "1.0.0",
+  "description": "Default config for Brian Duffey",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Brian Duffey",
+  "license": "ISC",
+  "peerDependencies": {
+    "eslint": ">= 3"
+  }
+}
